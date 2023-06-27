@@ -1,3 +1,4 @@
 # todoWebApp
-Web-app using screamlit python 
-streamlit in python used to create web applications.
+Todo web application using python streamlit.
+
+
